@@ -34,3 +34,8 @@
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nakle1ka&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+Так же посетите мой персонаотный сайт: 
+https://personal-website-chi-indol.vercel.app 
